@@ -20,6 +20,7 @@ L.polyline(line, {
     dashArray: '5,10'
  }).addTo(map);
 
+
 // // Create the map object with a center and zoom level.(Alternate method)
 // let map = L.map("mapid", {
 //     center: [
